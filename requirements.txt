@@ -1,0 +1,5 @@
+asyncio
+discord.py
+beautifulsoup4
+youtube_dl
+Dtime==0.1
