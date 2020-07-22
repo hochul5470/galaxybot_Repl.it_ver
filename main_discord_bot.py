@@ -29,7 +29,6 @@ calcResult = 0
 @bot.event
 async def on_ready():
     print("team.DBMAH GALAXY BOT 봇")
-    print("{} 연결된 서버".format(servers))
     await bt(["GALAXY BOT 입니다! (made by 호철Hochul)", "본 메시지는 10초에 1번씩 봐꿔저요!", "?명령어를 이용해 명령어 확인해주세요!", "http://dbmah.na.co"])
     await asyncio.sleep(1800)
     os.system("start main_discord_bot.py")
