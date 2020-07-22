@@ -23,7 +23,7 @@ async def bt(games):
 bot = commands.Bot(command_prefix='?')
 Uptime.uptimeset()
 
-token = "NzEzMTg4ODA1NzE2MjEzNzcx.Xsce4g.lRw3EgJhLbgn3sWkgDoONT2Nsxw"
+token = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjcxMzE4ODgwNTcxNjIxMzc3MSIsImlhdCI6MTU5NTMwMDA5OSwiZXhwIjoxNjI2ODU3Njk5fQ.R7Z1mD3w1Op5zpljZn09mLuMQkaEaYxgnd6CjuR_YTDkCQPVPnjtckh1pt-EeAn_faQbqZzXKqJaRfMUfmBI5_dIunPKdB3K4089DFlgbXae3kkssoTacYTLX3cMYpjXnsO_SsWwAzw8iBHmxH9w2xtST4VZXsiU7CceuFrWAn0"
 calcResult = 0
 
 @bot.event
