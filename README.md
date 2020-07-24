@@ -1,5 +1,5 @@
 # 안내
-현제 깃 허브 봇은 http://repl.it 전용 입니다!
+현제 깃 허브 봇은 http://repl.it 및 http://uptimerobot.com 전용 입니다!
 일반 버전은 곧 업로드 될 예정입니다!
 # Galaxy Bot 정보
   기획: 호철Hochul
@@ -10,7 +10,7 @@
  
  디스코드: https://discord.gg/tCKxyEZ
  
- 사용 모듈: Discord.py
+ 사용 모듈: [[Discord.py|https://github.com/Rapptz/discord.py]]
  
  파이썬 버전: 3.7.x 이상
  
