@@ -1,9 +1,0 @@
-asyncio
-discord.py==1.3.4
-beautifulsoup4
-youtube_dl
-Dtime==0.1
-koreanbots
-flask
-urllib-ext
-dbkrpy
