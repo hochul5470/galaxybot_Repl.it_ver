@@ -10,7 +10,7 @@
  
  디스코드: https://discord.gg/tCKxyEZ
  
- 사용 모듈: `Discord.py <https://github.com/Rapptz/discord.py>`_
+ 사용 모듈: [Discord.py](https://github.com/Rapptz/discord.py)
  
  파이썬 버전: 3.7.x 이상
  
