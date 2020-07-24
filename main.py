@@ -12,7 +12,6 @@ import os
 import json
 from Dtime import Uptime
 import keep_olive
-import koreanbots
 
 async def bt(games):
     await bot.wait_until_ready()
@@ -21,10 +20,6 @@ async def bt(games):
         for g in games:
             await bot.change_presence(status = discord.Status.online, activity = discord.Game(g))
             await asyncio.sleep(10)
-
-bot = commands.Bot(command_prefix='??')
-koreanbots.Client(bot, "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjcxMzE4ODgwNTcxNjIxMzc3MSIsImlhdCI6MTU5NTU2ODA0MCwiZXhwIjoxNjI3MTI1NjQwfQ.TgKO60qmsD_iNischWaktVytaobDIQkPK3923BoadYUFENrHyYHdqhcYDeYa96TS1gcb5FkzJcnWqUsgCyPhPBTILkHRGYO2qRX69zlXJLxzpiLjgn03uMo_PQ6QR10ARhzWOP2NikFz0_NvL0CwY3-PUVZn7ExrTlNPPIGOyfo")
-
 
 Uptime.uptimeset()
 
