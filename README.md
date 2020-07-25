@@ -12,7 +12,7 @@
 
  # 갤럭시 봇 사용법!
  1. 봇 초대링크에 들어간다!
- > https://discord.com/oauth2/authorize?client_id=713188805716213771&permissions=8&scope=bot
+ > [초대하러 가기](https://discord.com/oauth2/authorize?client_id=713188805716213771&permissions=8&scope=bot)
  2. 원하는 서버에 초대한다!
  # 오류 및 제보 신고
  봇에 대한 문의 또는 오류, 오타 수정 재보는 https://discord.gg/tCKxyEZ 에 접속해 인증후 Galaxy Bot 민원신고 또는 건의사항에 알려 주시기 바랍니다!
