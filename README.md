@@ -1,6 +1,6 @@
 # 안내
 현제 깃 허브 봇은 http://repl.it 및 http://uptimerobot.com 전용 입니다!
-> [일반 버전 보러가기!](https://github.com/hochul5470/galaxybot]
+> [일반 버전 보러가기!](https://github.com/hochul5470/galaxybot)
 # Galaxy Bot 정보
 - 기획: 호철Hochul
 - 제작: Team. KDB
